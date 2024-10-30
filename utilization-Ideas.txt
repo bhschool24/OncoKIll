@@ -1,0 +1,7 @@
+Active utilizations:
+
+Monoclonal Antibodies: Specifically designed to bind to unique proteins on cancer cells.
+
+Immune Modulators: Boost the immune response to attack cancer cells.
+
+CRISPR-Cas9: Used to edit genes in cancer cells to induce apoptosis (cell death).
