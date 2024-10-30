@@ -1,7 +1,13 @@
 Active utilizations:
 
-Monoclonal Antibodies: Specifically designed to bind to unique proteins on cancer cells.
+Monoclonal Antibodies
 
-Immune Modulators: Boost the immune response to attack cancer cells.
+Monoclonal antibodies are laboratory-engineered molecules designed to bind specifically to certain proteins (antigens) found on the surface of cancer cells. Each monoclonal antibody is tailored to target a specific antigen, making them highly selective in their action. By binding to these antigens, monoclonal antibodies can block signals that promote cancer cell growth, mark cancer cells for destruction by the immune system, or deliver cytotoxic agents directly to the cancer cells. This precision reduces collateral damage to healthy cells, enhancing the therapeutic effect while minimizing side effects commonly associated with traditional chemotherapy.
 
-CRISPR-Cas9: Used to edit genes in cancer cells to induce apoptosis (cell death).
+Immune Modulators
+
+Immune modulators are compounds that help to stimulate or enhance the body’s immune response. In the context of OncoKill, these agents can activate various components of the immune system, such as T-cells, which are crucial for identifying and destroying cancer cells. Some immune modulators work by increasing the production of cytokines—proteins that facilitate communication between immune cells. This boosts the overall immune response against tumors and helps the body recognize cancer cells as threats. By combining these modulators with monoclonal antibodies, OncoKill leverages both direct targeting of cancer cells and an amplified immune attack, increasing the chances of successful tumor elimination.
+
+CRISPR-Cas9
+
+CRISPR-Cas9 is a revolutionary gene-editing technology that allows for precise modifications of DNA within cells. In OncoKill, CRISPR could be employed to specifically target and disrupt genes that are essential for cancer cell survival and proliferation. For instance, the treatment could knock out genes responsible for resistance to apoptosis (programmed cell death), making cancer cells more susceptible to destruction. The precision of CRISPR means that it can be directed to only edit genes in cancer cells, minimizing the impact on healthy cells. This innovative approach not only directly impairs the cancer's ability to grow but can also enhance the effectiveness of other components in OncoKill.
